@@ -60,7 +60,7 @@ const Data = () => {
       Passionate web developer with expertise in JavaScript, React and Python.
       </p>
       <a href="#portfolio" className="button button--flex">
-        See Portfolio
+        My Portfolio
         <svg
           className="button__icon"
           xmlns="http://www.w3.org/2000/svg"
