@@ -57,7 +57,7 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">Web Developer</h3>
       <p className="home__description">
-      Passionate web developer with expertise in JavaScript, React and Python.
+        Passionate web developer with expertise in JavaScript, React and Python.
       </p>
       <a href="#portfolio" className="button button--flex">
         My Portfolio
@@ -78,6 +78,7 @@ const Data = () => {
             fill="var(--container-color)"
           ></path>
         </svg>
+
       </a>
     </div>
   );
