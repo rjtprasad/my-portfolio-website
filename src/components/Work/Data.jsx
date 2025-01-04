@@ -1,9 +1,18 @@
 import movix from "../../assets/movix.gif";
 import flowboard from "../../assets/flowboard.gif";
+import autospace from "../../assets/autospace.gif";
 
 export const projectsData = [
   {
     id: 1,
+    image: autospace,
+    title: "Autospace",
+    category: "nextjs",
+    demo: "https://autospace-web-sable.vercel.app/",
+    code: "https://github.com/rjtprasad/autospace",
+  },
+  {
+    id: 2,
     image: movix,
     title: "Movix",
     category: "react",
@@ -11,7 +20,7 @@ export const projectsData = [
     code: "https://github.com/rjtprasad/Movix",
   },
   {
-    id: 2,
+    id: 3,
     image: flowboard,
     title: "Flow Board",
     category: "react",
